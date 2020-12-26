@@ -1,6 +1,6 @@
-WAP to calculate the sum of the series
+'''WAP to calculate the sum of the series
 1-x2/4!+x3/6!-x4/8!+x5/10!......xn/(2n)!
-Accept the values of x and n from the user and pass them to a function to return the sum of the series.
+Accept the values of x and n from the user and pass them to a function to return the sum of the series.'''
 
 def sum(n,x):
   k=2
