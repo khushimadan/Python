@@ -1,4 +1,4 @@
-WAP to display N armstrong numbers. Use user defined function.
+#WAP to display N armstrong numbers. Use user defined function.
 
 def armstrong(a):
   j=1
